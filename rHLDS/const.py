@@ -1,4 +1,4 @@
 startBytes = b'\xFF\xFF\xFF\xFF'
 endBytes = b'\n'
 
-packetSize = 1024
+packetSize = 4096
